@@ -44,5 +44,9 @@ KEY ACHIEVEMENTS:
 • Designed intuitive visualizations for stakeholder communication
  
 This project perfectly encapsulates the skills needed in today's data-driven financial services industry—combining technical Tableau expertise with business acumen and analytical thinking.
- 
- 
+
+<img width="1566" height="887" alt="Screenshot 2026-06-28 125144" src="https://github.com/user-attachments/assets/0b1d4c4b-7dab-452a-a749-4781e674eecc" />
+<img width="1562" height="886" alt="Screenshot 2026-06-28 125200" src="https://github.com/user-attachments/assets/15f32b8f-93d9-40e3-b2a6-c451e9e8e9ed" />
+<img width="1565" height="885" alt="Screenshot 2026-06-28 125215" src="https://github.com/user-attachments/assets/48212d97-999f-4ca9-8d12-36c3adffc936" />
+
+
